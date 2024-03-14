@@ -1,0 +1,30 @@
+{
+  "name": "sum-haxor",
+  "version": "1.0.0",
+  "description": "A library that helps you calculate the sum of any 2 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-haxor": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haxsinner/sum-haxor.git"
+  },
+  "homepage": "https://github.com/haxsinner/sum-haxor",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "haxsinner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haxsinner/sum-haxor/issues"
+  }
+}
